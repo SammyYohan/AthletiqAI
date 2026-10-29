@@ -13,17 +13,17 @@
 
 **English** • [Français](README.fr.md) • [Español](README.es.md) • [Deutsch](README.de.md) • [Italiano](README.it.md) • [Português](README.pt.md)
 
-[Direct APK Download](#-download--installation-android) • [All Features](#-all-features-in-depth) • [A Word from Sami Yohan](#-a-word-from-the-creator--sami-yohan) • [Support the Project](#-support-the-project-ko-fi--paypal) • [Tech Stack](#-technical-architecture)
+[Direct APK Download](#-download--installation-android) • [All Features](#-all-features-in-depth) • [A Word from Sammy Yohan](#-a-word-from-the-creator--sammy-yohan) • [Support the Project](#-support-the-project-ko-fi--paypal) • [Tech Stack](#-technical-architecture)
 
 </div>
 
 ---
 
-## 💬 A Word from the Creator — Sami Yohan
+## 💬 A Word from the Creator — Sammy Yohan
 
 > *"Hi everyone,*
 > 
-> *My name is Sami Yohan. I have no venture capital, no investors, and zero marketing budget. I started with nothing in my pocket—just raw ideas, determination, and a passion for crafting software that genuinely helps people.*
+> *My name is Sammy Yohan. I have no venture capital, no investors, and zero marketing budget. I started with nothing in my pocket—just raw ideas, determination, and a passion for crafting software that genuinely helps people.*
 > 
 > *I built **ATHLETIQ AI** from scratch on my old personal computer. My core goal is simple: put cutting-edge technology (on-device computer vision, real-time biomechanical posture correction, metabolic calculations, and custom periodized training) into the hands of every lifter and fitness enthusiast, without any financial gatekeeping.*
 > 
@@ -35,7 +35,7 @@
 > 
 > *Thank you from the bottom of my heart for your trust and support!"*
 > 
-> — **Sami Yohan**
+> — **Sammy Yohan**
 
 ---
 
@@ -213,7 +213,7 @@ ATHLETIQ AI combines a native, high-performance UI (built with Kotlin and Jetpac
 
 ## ☕ Support the Project (Ko-fi & PayPal)
 
-ATHLETIQ AI is created and maintained solo by **Sami Yohan**. If this app helps your training and you want to give back to the project:
+ATHLETIQ AI is created and maintained solo by **Sammy Yohan**. If this app helps your training and you want to give back to the project:
 
 | Platform | Direct Link |
 | :--- | :--- |
@@ -229,5 +229,5 @@ ATHLETIQ AI is created and maintained solo by **Sami Yohan**. If this app helps 
 
 ## 📄 License & Rights
 
-Designed and built with passion by **Sami Yohan**.  
-All rights reserved © 2026 Sami Yohan.
+Designed and built with passion by **Sammy Yohan**.  
+All rights reserved © 2026 Sammy Yohan.
