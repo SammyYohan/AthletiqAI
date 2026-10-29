@@ -1,250 +1,233 @@
-# ATHLETIQ AI — Coach de Fitness & Posture Intelligent avec IA Souveraine
+# ATHLETIQ AI — Intelligent & Sovereign Fitness & Posture Coach
 
 <div align="center">
 
-![Platform](https://img.shields.io/badge/Plateforme-Android_8.0%2B-3DDC84?logo=android&logoColor=white)
-![Prix](https://img.shields.io/badge/Accès-100%25_Gratuit-2E7D32)
-![Abonnement](https://img.shields.io/badge/Abonnement-Aucun-brightgreen)
-![Confidentialité](https://img.shields.io/badge/Données-100%25_Locales_Souveraines-blue)
-![Langues](https://img.shields.io/badge/Langues-FR_|_EN_|_ES_|_DE_|_IT_|_PT-orange)
-[![Télécharger APK](https://img.shields.io/badge/Télécharger-APK_v1.0.0-C6F36A?logo=android&logoColor=black)](https://github.com/SammyYohan/AthletiqAI/releases/latest)
+![Platform](https://img.shields.io/badge/Platform-Android_8.0%2B-3DDC84?logo=android&logoColor=white)
+![Price](https://img.shields.io/badge/Access-100%25_Free-2E7D32)
+![Subscription](https://img.shields.io/badge/Subscription-None-brightgreen)
+![Privacy](https://img.shields.io/badge/Data-100%25_Local_&_Sovereign-blue)
+![Languages](https://img.shields.io/badge/Languages-EN_|_FR_|_ES_|_DE_|_IT_|_PT-orange)
+[![Download APK](https://img.shields.io/badge/Download-APK_v1.0.0-C6F36A?logo=android&logoColor=black)](https://github.com/SammyYohan/AthletiqAI/releases/latest)
 
-**L'application de musculation intelligente, souveraine et 100% gratuite qui analyse votre posture par caméra en temps réel, calibre vos programmes sur-mesure et respecte scrupuleusement votre vie privée.**
+**The intelligent, privacy-first, 100% free bodybuilding & workout app with real-time AI camera posture coaching, deterministic program generation, and zero subscription paywalls.**
 
-[English](#english-summary) • [Téléchargement Direct](#-téléchargement--installation-android) • [Fonctionnalités Détaillées](#-toutes-les-fonctionnalités-détaillées) • [Le Mot de Sami Yohan](#-le-mot-du-créateur--sami-yohan) • [Soutien](#-soutenir-le-projet-ko-fi--paypal)
+**English** • [Français](README.fr.md) • [Español](README.es.md) • [Deutsch](README.de.md) • [Italiano](README.it.md) • [Português](README.pt.md)
+
+[Direct APK Download](#-download--installation-android) • [All Features](#-all-features-in-depth) • [A Word from Sami Yohan](#-a-word-from-the-creator--sami-yohan) • [Support the Project](#-support-the-project-ko-fi--paypal) • [Tech Stack](#-technical-architecture)
 
 </div>
 
 ---
 
-## 💬 Le Mot du Créateur — Sami Yohan
+## 💬 A Word from the Creator — Sami Yohan
 
-> *« Bonjour à toutes et à tous,*
+> *"Hi everyone,*
 > 
-> *Je m'appelle Sami Yohan. Je n'ai pas de gros investisseurs derrière moi, ni de budget marketing. Je commence avec rien du tout en poche, juste des idées, de la passion et l'envie de créer des outils utiles et performants.*
+> *My name is Sami Yohan. I have no venture capital, no investors, and zero marketing budget. I started with nothing in my pocket—just raw ideas, determination, and a passion for crafting software that genuinely helps people.*
 > 
-> *J'ai développé **ATHLETIQ AI** de A à Z depuis mon vieil ordinateur personnel. Mon objectif absolu est de mettre la technologie de pointe (vision par ordinateur, correction posturale biomécanique en temps réel, calcul métabolique sur-mesure) entre les mains de tous les passionnés de musculation et de remise en forme, sans aucune barrière financière.*
+> *I built **ATHLETIQ AI** from scratch on my old personal computer. My core goal is simple: put cutting-edge technology (on-device computer vision, real-time biomechanical posture correction, metabolic calculations, and custom periodized training) into the hands of every lifter and fitness enthusiast, without any financial gatekeeping.*
 > 
-> *Voilà pourquoi **ATHLETIQ AI est et restera 100% gratuite**. Aucun abonnement caché, aucun mur payant, aucune publicité intrusive.*
+> *That is why **ATHLETIQ AI is and will always remain 100% free**. No paywalls, no subscriptions, no locked features, and no annoying ad pop-ups.*
 > 
-> *Actuellement, l'application est **disponible uniquement sur Android**. Pourquoi ? Tout simplement parce que je n'ai pas encore assez d'argent pour m'acheter un MacBook (indispensable pour compiler avec Xcode) ni pour financer les frais récurrents du compte développeur Apple (99 $/an) ou encore les frais initiaux de publication sur le Google Play Store.*
+> *Right now, the app is **available exclusively on Android**. Why? Simply because I cannot afford a MacBook yet (which is required to build and compile with Apple's Xcode), nor can I afford Apple's annual developer fee ($99/year) or the initial Google Play developer console fee.*
 > 
-> *Si l'application vous plaît, qu'elle vous aide à progresser et à vous entraîner en toute sécurité, votre force et votre soutien via Ko-fi ou PayPal m'aident directement au quotidien pour faire grandir ce projet, publier officiellement sur le Play Store et, dès que possible, porter l'application sur iOS.*
+> *If ATHLETIQ AI helps you level up your training, correct your technique, or transform your physique, any support on Ko-fi or PayPal directly empowers me to keep building, publish officially to the Google Play Store, and eventually port the app to iOS once I can get my hands on a second-hand Mac.*
 > 
-> *Merci du fond du cœur pour votre confiance ! »*
+> *Thank you from the bottom of my heart for your trust and support!"*
 > 
 > — **Sami Yohan**
 
 ---
 
-## 📥 Téléchargement & Installation (Android)
+## 📥 Download & Installation (Android)
 
-L'application est distribuée sous forme de paquet APK signé prêt à l'emploi.
+ATHLETIQ AI is distributed as a signed, ready-to-run APK release.
 
-👉 **[Télécharger ATHLETIQ AI v1.0.0 (APK)](https://github.com/SammyYohan/AthletiqAI/releases/latest)**
+👉 **[Download ATHLETIQ AI v1.0.0 (APK)](https://github.com/SammyYohan/AthletiqAI/releases/latest)**
 
-### Comment l'installer en 3 étapes :
-1. Téléchargez le fichier `AthletiqAI-v1.0.0.apk` depuis la page des [Releases](https://github.com/SammyYohan/AthletiqAI/releases/latest) sur votre téléphone Android.
-2. Ouvrez le fichier téléchargé. Si Android vous demande d'autoriser l'installation d'applications provenant de sources inconnues (votre navigateur ou explorateur de fichiers), validez l'autorisation.
-3. Lancez l'installation et profitez immédiatement de votre nouveau coach sans inscription obligatoire ni connexion requise !
+### How to Install in 3 Steps:
+1. Download **`AthletiqAI-v1.0.0.apk`** from the [Releases](https://github.com/SammyYohan/AthletiqAI/releases/latest) page onto your Android device.
+2. Open the downloaded file. If prompted by Android, enable *"Install from unknown sources"* for your browser or file manager.
+3. Tap **Install** and start training immediately—no account creation or internet connection required!
 
-> 📱 **Compatibilité** : Android 8.0 (Oreo, API 26) et versions supérieures (testé et optimisé jusqu'à Android 15 & 16). Fonctionne 100% hors-ligne.
-
----
-
-## ✨ Toutes les Fonctionnalités Détaillées
-
-ATHLETIQ AI rassemble dans une interface moderne et fluide (Jetpack Compose Material 3) un arsenal complet d'outils d'entraînement et d'analyse :
-
-### 1. 🎯 Onboarding & Profilage Biomécanique Complet
-- **Parcours interactif pas à pas** : configuration intuitive de votre profil sans créer de compte en ligne.
-- **Paramètres physiologiques** : âge, taille, poids (prise en charge du système Métrique kg/cm et Impérial lbs/in).
-- **Objectif d'entraînement précis** :
-  - *Hypertrophie* (gain de masse musculaire ciblée)
-  - *Force athlétique* (progression sur les charges et mouvements de base)
-  - *Condition & Silhouette découpée* (sèche, endurance et tonicité)
-  - *Technique & Posture* (maîtrise du mouvement et prévention)
-  - *Reprise douce* (post-blessure ou reprise progressive)
-- **Matériel & Lieu d'entraînement** :
-  - À domicile au poids du corps
-  - Avec matériel minimal (haltères, élastiques, barre de traction)
-  - En salle de musculation complète (barres olympiques, bancs réglables, poulies, machines guidées)
-- **Personnalisation du volume** : fréquence réglable de **1 à 7 jours par semaine** et durée de séance personnalisable de **25 à 90 minutes** (le volume d'exercices s'ajuste dynamiquement).
-- **Ciblage des retards musculaires** : priorisez jusqu'à plusieurs zones musculaires à combler (Pectoraux, Épaules, Dos, Biceps, Triceps, Abdominaux, Quadriceps, Fessiers, Mollets).
+> 📱 **Compatibility**: Android 8.0 (Oreo, API 26) and above (tested and optimized up to Android 15 & 16). Works 100% offline.
 
 ---
 
-### 2. 🧠 Moteur Algorithmique de Programmes (`ProgramEngine`)
-- **Génération déterministe locale** : aucun aller-retour vers un serveur distant, génération instantanée et autonome.
-- **Répartition intelligente des séances (Splits)** :
-  - *Full Body* équilibré pour les fréquences courtes (1 à 3 jours)
-  - *Upper / Lower* pour les profils 4 jours
-  - *Push / Pull / Legs* (PPL) optimisé pour 3 à 6 jours
-  - *Arnold Split / Split hybride* pour les entraînements avancés
-- **Priorisation anatomique des retards** : les muscles sélectionnés comme prioritaires sont placés en début de séance avec les charges et le volume adéquats.
-- **Calibrage des répétitions & tempos** :
-  - 5-8 répétitions pour le travail de force pure
-  - 8-12 répétitions pour l'hypertrophie mécanique
-  - 12-15+ répétitions pour l'endurance musculaire et le travail au poids du corps
+## ✨ All Features In-Depth
+
+ATHLETIQ AI combines a native, high-performance UI (built with Kotlin and Jetpack Compose Material 3) with an advanced biomechanical engine:
+
+### 1. 🎯 Comprehensive Biomechanical Onboarding
+- **Zero-Friction Setup**: No cloud account or email required; your profile is created on-device in seconds.
+- **Physical Parameters**: Age, height, and weight (full support for both Metric `kg/cm` and Imperial `lbs/in`).
+- **Goal Selection**:
+  - *Hypertrophy*: Target maximum muscle mass gains.
+  - *Strength*: Prioritize progressive overload on compound lifts.
+  - *Conditioning & Lean Definition*: High work capacity, fat loss, and definition.
+  - *Technique & Posture*: Master movement mechanics and injury prevention.
+  - *Rehabilitation / Gradual Return*: Safe return after a hiatus or injury.
+- **Equipment & Location Calibration**:
+  - Home Bodyweight / Calisthenics.
+  - Minimal Equipment (Dumbbells, resistance bands, pull-up bar).
+  - Full Commercial Gym (Barbells, power racks, adjustable benches, cables, and machines).
+- **Custom Schedule & Volume**: Select between **1 to 7 training days per week** and tune workout duration from **25 to 90 minutes** (the engine automatically adjusts exercise selection and volume accordingly).
+- **Lagging Muscle Prioritization**: Select specific muscle groups you want to bring up (Chest, Shoulders, Back, Biceps, Triceps, Abs, Quads, Glutes, Calves).
 
 ---
 
-### 3. 👁️ Coach Postural Caméra & IA Temps Réel (MediaPipe Tasks Vision)
-- **Vision par ordinateur 100% embarquée** : propulsée par le modèle Google MediaPipe Pose Landmarker (`pose_landmarker_lite.task`), s'exécutant directement sur le processeur/GPU de votre téléphone.
-- **Tracking 3D de 33 repères anatomiques** : détection fine des genoux, hanches, épaules, coudes, poignets et chevilles.
-- **Machine à états de répétition (`RepPhase`)** :
-  - Détection automatique des phases : `TOP` (position initiale) ➔ `DESCENDING` (contrôle excentrique) ➔ `BOTTOM` (amplitude cible) ➔ `ASCENDING` (poussée concentrique).
-  - Validation stricte de l'amplitude : exclusion des demi-répétitions ou des mouvements trichés.
-- **Retour sonore temps réel (`ToneGenerator`)** :
-  - Bip mélodieux de validation à chaque répétition propre effectuée.
-  - Bip d'alerte spécifique si la forme se dégrade ou si l'amplitude est écourtée.
-- **Module de Prévention des Blessures (Anti-Déchirure)** :
-  - Surveillance du *valgus du genou* (genoux qui s'affaissent vers l'intérieur au squat ou aux fentes).
-  - Contrôle du gainage lombo-pelvien (prévention du dos rond ou du décollement des lombaires).
-  - Alignement des coudes aux pompes (maintien d'un angle à 45° pour protéger les tendons et la coiffe des rotateurs).
-- **Flexibilité totale** :
-  - Caméra avant (mode miroir pour s'auto-corriger) ou caméra arrière.
-  - Mode compteur manuel avec clicker sonore si vous préférez poser votre téléphone ou vous entraîner sans caméra.
+### 2. 🧠 Algorithmic Program Engine (`ProgramEngine`)
+- **Deterministic & Instant**: Generates fully structured workout splits locally in milliseconds without server delays.
+- **Adaptive Splits**:
+  - *Full Body*: Balanced stimulation for 1 to 3 weekly sessions.
+  - *Upper / Lower*: Ideal 4-day frequency for strength and recovery.
+  - *Push / Pull / Legs (PPL)*: High-frequency hypertrophy split for 3 to 6 days.
+  - *Arnold Split / Specialized Splits*: Advanced volume distribution.
+- **Weak Point Specialization**: Lagging muscles are prioritized early in the session with prime neuromuscular activation.
+- **Intelligent Rep Ranges & Tempos**:
+  - 5–8 reps for heavy mechanical tension (Strength).
+  - 8–12 reps for metabolic stress and hypertrophy.
+  - 12–15+ reps for muscular endurance and bodyweight control.
 
 ---
 
-### 4. ⚡ Suivi de Séance en Direct (Active Workout)
-- **Déroulé guidé série par série** avec affichage clair des charges et répétitions visées.
-- **Ajustement instantané des charges** : boutons rapides `+ / - 2.5 kg` et `+ / - 5 kg`.
-- **Sélecteur d'effort perçu RPE** : échelle de Borg graduée de 1 à 10 pour monitorer votre proximité de l'échec musculaire (RIR - Reps in Reserve).
-- **Minuteur de repos automatique** : déclenchement immédiat dès la série terminée, sonnerie de fin de repos, bouton d'extension rapide `+30s` et saut possible.
-- **Substitution d'exercices à la volée** : un banc est occupé ? Remplacez instantanément l'exercice par une variante équivalente suggérée par la bibliothèque.
-- **Tolérance aux pannes** : sauvegarde automatique de la séance en cours (reprise instantanée en cas d'appel ou de fermeture imprévue).
-- **Bilan de fin de séance complet** :
-  - Durée réelle d'entraînement
-  - Tonnage total soulevé (kg cumulés déplacés sur la séance)
-  - Nombre total de séries complétées
-  - Note personnelle et gain d'expérience (XP)
+### 3. 👁️ Real-Time AI Camera Posture Coach (MediaPipe Tasks Vision)
+- **100% On-Device Computer Vision**: Powered by Google's MediaPipe Tasks Vision (`pose_landmarker_lite.task`), running directly on your phone's CPU/GPU.
+- **3D Landmark Tracking**: Continuous tracking of 33 anatomical keypoints across knees, hips, shoulders, elbows, wrists, and ankles.
+- **Finite State Rep Counter (`RepPhase`)**:
+  - Automatic state transitions: `TOP` ➔ `DESCENDING` (controlled eccentric phase) ➔ `BOTTOM` (target depth) ➔ `ASCENDING` (concentric drive).
+  - Full range of motion (ROM) verification: excludes cheated or half repetitions.
+- **Real-Time Audio Feedback (`ToneGenerator`)**:
+  - Pleasant chime on every successfully completed, clean repetition.
+  - Distinct warning tone if movement breaks form or fails depth criteria.
+- **Injury Prevention Module (Anti-Tear & Joint Safety)**:
+  - *Knee Valgus Detection*: Warns when knees cave inwards on squats or lunges.
+  - *Spine Alignment*: Detects excessive lumbar hyperextension or lower back rounding (*butt wink*).
+  - *Elbow Flare Protection*: Enforces a safe ~45° pressing angle on push-ups to preserve the rotator cuff.
+- **Front & Rear Camera Flexibility**: Switch instantly to front camera for real-time selfie-mirror mode or rear camera on a tripod/stand.
+- **Manual Counter Fallback**: Audio clicker mode available when training without camera support or in low-light environments.
 
 ---
 
-### 5. 📸 Body Scan Visuel & Analyse des Proportions
-- **Captures multi-angles** : prise de photo guidée ou enregistrement vidéo 360° fluide.
-- **Import depuis la galerie** : possibilité d'analyser vos clichés ou vidéos déjà enregistrés.
-- **Cartographie des 9 zones musculaires** : évaluation morphologique des Épaules, Pectoraux, Dos, Biceps, Triceps, Abdominaux, Quadriceps, Fessiers et Mollets.
-- **Détection des asymétries et des points faibles** : scoring visuel (0-100) et calcul des deltas d'évolution d'un scan à l'autre.
-- **Souveraineté absolue** : toutes les photos et vidéos restent exclusivement sur la mémoire interne de votre smartphone. **Aucun serveur cloud, aucun transfert de biométrie**.
+### 4. ⚡ Active Workout Tracker
+- **Set-by-Set Guided Execution**: Live displays for target load, reps, and pacing.
+- **Rapid Weight Increment Controls**: Quick `+ / - 2.5 kg` and `+ / - 5 kg` buttons (or lbs equivalent).
+- **RPE Borg Scale Selector**: Log Rate of Perceived Exertion (1 to 10) to gauge proximity to failure (RIR).
+- **Automated Rest Timer**: Starts immediately upon set completion, with sound notifications, rapid `+30s` button, and skip option.
+- **Smart On-The-Fly Exercise Substitutions**: Gym bench taken? Swap any exercise in 1 tap for an anatomically equivalent regression or progression.
+- **Crash & Interruption Resilience**: Every rep and set is automatically saved locally; resume seamlessly if interrupted by a call or app switch.
+- **Comprehensive Post-Workout Summary**: Net session duration, cumulative tonnage lifted, sets completed, personal notes, and XP earned.
 
 ---
 
-### 6. 🥗 Calculateur Métabolique & Nutrition Avancée
-- **BMR (Métabolisme de Base)** : calcul précis via la formule physiologique de **Mifflin-St Jeor**.
-- **TDEE (Dépense Énergétique Journalière Totale)** : coefficient d'activité calibré dynamiquement selon vos jours d'entraînement réels et la durée moyenne de vos séances.
-- **Cible calorique automatisée selon l'objectif** :
-  - Sèche & Découpe : déficit modéré et durable (-350 kcal/j) préservant la masse musculaire.
-  - Hypertrophie & Masse : surplus anabolique maîtrisé (+250 kcal/j) minimisant la prise de tissu adipeux.
-  - Force pure : surplus énergétique de consolidation (+200 kcal/j).
-  - Recomposition / Maintien : équilibre isocalorique optimisé.
-- **Répartition fine des macronutriments** :
-  - *Protéines* : 1.7 à 2.1 g par kg de poids corporel.
-  - *Lipides* : ~0.95 g par kg (maintien de l'équilibre hormonal et articulaire).
-  - *Glucides* : calibrés sur le restant calorique pour fournir l'énergie d'entraînement.
-- **Hydratation personnalisée** : calcul au décilitre près basé sur votre masse et vos minutes d'exercice.
-- **Conseils de récupération** : recommandations pratiques pour le sommeil, la gestion du repos nerveux et les repas pré/post-entraînement.
+### 5. 📸 360° Video & Photo Body Scan
+- **Multi-Angle Capture**: Guided front, side, and rear photos, or seamless 360° video scans.
+- **Gallery Import**: Analyze existing fitness progress photos or videos directly from your phone.
+- **9-Zone Anatomical Analysis**: Visual scoring across Shoulders, Chest, Back, Biceps, Triceps, Abs, Quads, Glutes, and Calves.
+- **Symmetry & Weak Point Identification**: Numerical scores (0–100) and scan-to-scan delta progression tracking.
+- **100% Sovereign Privacy**: Photos, videos, and biometric data **never leave your device**. No cloud uploads, no third-party AI inspection.
 
 ---
 
-### 7. 📈 Progrès, Historique & Records Personnels (PR)
-- **Graphiques visuels d'entraînement** : filtres d'analyse sur 4, 8 et 12 semaines.
-- **Tableau des Records Personnels (PR)** : calcul automatique du 1RM estimé et suivi du record de répétitions pour chaque mouvement.
-- **Volume cumulé sur 30 jours** : indicateur visuel de la surcharge progressive.
-- **Historique complet et illimité** : consultation de l'intégralité de vos séances passées avec détail des charges, séries et commentaires.
-- **Suivi de pesée** : courbe d'évolution corporelle.
+### 6. 🥗 Metabolic & Macro Nutrition Calculator
+- **Physiological BMR**: Calculated using the clinically verified **Mifflin-St Jeor** formula.
+- **Dynamic TDEE**: Activity factor dynamically calibrated to your actual weekly workout frequency and average session duration.
+- **Automated Caloric Targets**:
+  - *Lean Cut / Fat Loss*: Controlled deficit (-350 kcal/day) sparing lean muscle tissue.
+  - *Hypertrophy / Clean Bulk*: Anabolic surplus (+250 kcal/day) minimizing fat gain.
+  - *Strength*: Performance-focused surplus (+200 kcal/day).
+  - *Recomposition / Maintenance*: Optimal energy balance.
+- **Macro Distribution**:
+  - *Proteins*: 1.7 to 2.1 g per kg of bodyweight.
+  - *Fats*: ~0.95 g per kg for optimal hormonal and joint health.
+  - *Carbohydrates*: Balanced to fuel heavy training sessions.
+- **Personalized Hydration**: Daily water targets tailored to body mass and training volume.
+- **Recovery Guidelines**: Science-based tips for pre/post-workout nutrition, sleep architecture, and central nervous system recovery.
 
 ---
 
-### 8. 🏆 Système de Gamification & Rangs d'Athlète
-- **Progression par rangs dynamiques** :
-  - 🥉 **Rang 1** : *Novice de la Fonte*
-  - 🥉 **Rang 2** : *Initié de la Charge*
-  - 🥈 **Rang 3** : *Pratiquant Hypertrophie*
-  - 🥈 **Rang 4** : *Sculpteur V-Taper*
-  - 🥇 **Rang 5** : *Maître de la Force*
-  - 🏆 **Rang 6** : *Titan Athlétique*
-- **Gain d'expérience (XP)** : chaque séance validée, chaque série scannée par caméra et chaque bilan vous rapproche du grade supérieur.
+### 7. 📈 Progression, History & Personal Records (PR)
+- **Interactive Progress Charts**: Dynamic volume and frequency filters over 4, 8, and 12-week windows.
+- **Personal Records Board (PR)**: Automatic estimated 1RM calculations and rep records for every lift.
+- **30-Day Rolling Tonnage**: Visual metric to ensure consistent progressive overload.
+- **Unlimited Workout Logs**: Revisit every past workout, complete with weight, reps, sets, and notes.
+- **Bodyweight Tracking**: Monitor long-term weight evolution alongside workout data.
 
 ---
 
-### 9. 📚 Bibliothèque d'Exercices Complète
-- **Catalogue classé par groupe musculaire** : Pectoraux, Dos, Épaules, Bras, Jambes, Abdominaux.
-- **Filtres par équipement** : Poids de corps, Haltères, Barre, Machine, Élastiques.
-- **Fiches techniques exhaustives** :
-  - Consignes d'alignement et d'exécution sécurisée
-  - Erreurs fréquentes et risques biomécaniques à éviter
-  - Variantes plus accessibles (régression)
-  - Variantes plus intenses (progression)
-  - Substitutions équivalentes en cas de matériel indisponible
-- **Lancement direct du Coach IA** pour chaque exercice compatible.
+### 8. 🏆 Gamified Athlete Ranks & XP System
+- **Dynamic Rank Evolution**:
+  - 🥉 **Rank 1**: *Iron Novice*
+  - 🥉 **Rank 2**: *Barbell Initiate*
+  - 🥈 **Rank 3**: *Hypertrophy Practitioner*
+  - 🥈 **Rank 4**: *V-Taper Sculptor*
+  - 🥇 **Rank 5**: *Strength Master*
+  - 🏆 **Rank 6**: *Athletic Titan*
+- **Experience Points (XP)**: Earn XP for completed workouts, camera-verified reps, and regular body scans.
 
 ---
 
-### 10. 🌍 Multilingue & Internationalisation
-- Traduction intégrale et soignée dans **6 langues** :
-  - 🇫🇷 Français
-  - 🇬🇧 Anglais (English)
-  - 🇪🇸 Espagnol (Español)
-  - 🇩🇪 Allemand (Deutsch)
-  - 🇮🇹 Italien (Italiano)
-  - 🇵🇹 Portugais (Português)
+### 9. 📚 Comprehensive Exercise Library
+- **Categorized by Muscle Group**: Chest, Back, Shoulders, Arms, Legs, Core.
+- **Equipment Filters**: Bodyweight, Dumbbells, Barbells, Cables, Machines, Resistance Bands.
+- **In-Depth Movement Guides**:
+  - Step-by-step setup and execution cues.
+  - Common biomechanical pitfalls and injury risks.
+  - Accessible regressions (easier variants).
+  - Challenging progressions (harder variants).
+  - Muscle-matched substitutions.
+- **One-Tap AI Coach Launch**: Jump straight into camera coaching for any supported movement.
 
 ---
 
-### 11. 🛡️ Souveraineté, Éthique & Hors-Ligne
-- **100% Fonctionnel Hors-Ligne (Offline First)** : une fois téléchargée, l'application ne nécessite aucun accès internet.
-- **Aucun compte requis** : commencez à vous entraîner en 10 secondes sans fournir votre adresse e-mail ni créer de mot de passe.
-- **Zéro pistage, zéro SDK publicitaire** : aucune donnée personnelle n'est revendue ou transmise à des tiers.
+### 10. 🌍 Multilingual by Design
+- Fully translated and native in **6 major languages**:
+  - 🇬🇧 English
+  - 🇫🇷 French (Français)
+  - 🇪🇸 Spanish (Español)
+  - 🇩🇪 German (Deutsch)
+  - 🇮🇹 Italian (Italiano)
+  - 🇵🇹 Portuguese (Português)
 
 ---
 
-## 🛠️ Stack Technique
-
-- **Langage** : Kotlin 2.1
-- **UI Framework** : Android Jetpack Compose (Material Design 3)
-- **Vision par Ordinateur & IA** : Google MediaPipe Tasks Vision (`tasks-vision:0.10.14`)
-- **Pipeline Caméra** : AndroidX CameraX (Core, Camera2, Lifecycle, View)
-- **Architecture** : MVVM réactif avec `StateFlow` et coroutines Kotlin
-- **Persistance des données** : `LocalStore` souverain basé sur JSON typé
-- **Design System** : Thème sombre athlétique `#0E1310`, surfaces `#161C18` / `#1D2520`, accent vert citron électrique `#C6F36A`.
-- **Cible Android** : `minSdk 26` (Android 8.0) • `targetSdk 36` (Android 16)
+### 11. 🛡️ Sovereign, Offline-First & Zero Ads
+- **100% Offline Capability**: Once installed, no internet connection is required.
+- **No Sign-Up Barrier**: Start working out in under 10 seconds without handing over email addresses or passwords.
+- **No Telemetry, No Ad SDKs**: No trackers, no ad networks, no data brokers. Your fitness journey stays strictly yours.
 
 ---
 
-## ☕ Soutenir le Projet (Ko-fi & PayPal)
+## 🛠️ Technical Architecture
 
-ATHLETIQ AI est développée bénévolement par **Sami Yohan**. Si cette application vous est utile dans votre pratique quotidienne et que vous souhaitez soutenir son développement :
+- **Language**: Kotlin 2.1
+- **UI Framework**: Android Jetpack Compose (Material Design 3)
+- **Computer Vision & On-Device AI**: Google MediaPipe Tasks Vision (`tasks-vision:0.10.14`)
+- **Camera Subsystem**: AndroidX CameraX (Core, Camera2, Lifecycle, View)
+- **Architecture**: Reactive MVVM with Kotlin Coroutines & `StateFlow`
+- **Data Persistence**: Sovereign, typed JSON `LocalStore`
+- **Design System**: Athletic dark palette `#0E1310`, tonal surfaces `#161C18` / `#1D2520`, electric lime accent `#C6F36A`.
+- **Target Android**: `minSdk 26` (Android 8.0) • `targetSdk 36` (Android 16)
 
-| Plateforme | Lien direct |
+---
+
+## ☕ Support the Project (Ko-fi & PayPal)
+
+ATHLETIQ AI is created and maintained solo by **Sami Yohan**. If this app helps your training and you want to give back to the project:
+
+| Platform | Direct Link |
 | :--- | :--- |
 | ☕ **Ko-fi** | [ko-fi.com/sammyyohan](https://ko-fi.com/sammyyohan) |
 | 💙 **PayPal** | [paypal.me/sammyyohan](https://paypal.me/sammyyohan) |
 
-### À quoi servent les dons ?
-1. **Frais de compte Google Play Console** (25 $) : pour publier l'application directement sur le Google Play Store et simplifier les mises à jour automatiques.
-2. **Financement d'un MacBook d'occasion** : matériel indispensable pour compiler et déboguer sous Xcode afin de proposer ATHLETIQ AI sur iPhone.
-3. **Licence Apple Developer Program** (99 $/an) : pour déployer l'application sur l'App Store iOS.
+### What Donations Fund:
+1. **Google Play Console Account Fee** ($25): To distribute ATHLETIQ AI directly on the Google Play Store for seamless automatic updates.
+2. **A Second-Hand MacBook**: Necessary hardware to run macOS and Xcode, enabling the development and build of an iOS version.
+3. **Apple Developer Program Fee** ($99/year): To publish and maintain the app on the Apple App Store.
 
 ---
 
-## 🇬🇧 English Summary
+## 📄 License & Rights
 
-**ATHLETIQ AI** is a modern, sovereign, 100% free fitness and posture coaching Android application built with Kotlin, Jetpack Compose, and Google MediaPipe Tasks Vision.
-
-- **100% Free**: No subscription, no paywalls, no ads.
-- **Android Only**: Hand-crafted on an older personal PC by indie creator Sami Yohan, who currently lacks the funds for Apple Developer fees and a Mac for iOS development.
-- **On-Device AI**: Real-time camera pose estimation, repetition counter, audio feedback, and injury prevention cues that run locally without cloud dependency.
-- **Full Capabilities**: Custom program generation (1-7 days, 25-90 min), active set-by-set tracker with rest timers, body scan & muscle lag analysis, Mifflin-St Jeor metabolic & macro nutrition calculator, PR tracker, gamified athlete ranks, and exercise library.
-- **Supported Languages**: French, English, Spanish, German, Italian, Portuguese.
-
-Download the latest signed APK directly from the [Releases](https://github.com/SammyYohan/AthletiqAI/releases/latest) page.
-
----
-
-## 📄 Licence & Droits
-
-Application conçue et développée par **Sami Yohan**.  
-Tous droits réservés © 2026 Sami Yohan.
+Designed and built with passion by **Sami Yohan**.  
+All rights reserved © 2026 Sami Yohan.
