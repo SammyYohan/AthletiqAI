@@ -13,17 +13,17 @@
 
 [English](README.md) • **Français** • [Español](README.es.md) • [Deutsch](README.de.md) • [Italiano](README.it.md) • [Português](README.pt.md)
 
-[Téléchargement Direct](#-téléchargement--installation-android) • [Fonctionnalités Détaillées](#-toutes-les-fonctionnalités-détaillées) • [Le Mot de Sami Yohan](#-le-mot-du-créateur--sami-yohan) • [Soutien](#-soutenir-le-projet-ko-fi--paypal) • [Stack Technique](#-stack-technique)
+[Téléchargement Direct](#-téléchargement--installation-android) • [Fonctionnalités Détaillées](#-toutes-les-fonctionnalités-détaillées) • [Le Mot de Sammy Yohan](#-le-mot-du-créateur--sammy-yohan) • [Soutien](#-soutenir-le-projet-ko-fi--paypal) • [Stack Technique](#-stack-technique)
 
 </div>
 
 ---
 
-## 💬 Le Mot du Créateur — Sami Yohan
+## 💬 Le Mot du Créateur — Sammy Yohan
 
 > *« Bonjour à toutes et à tous,*
 > 
-> *Je m'appelle Sami Yohan. Je n'ai pas de fonds d'investissement derrière moi, ni de budget marketing. Je commence avec rien du tout en poche, juste des idées, de la passion et l'envie de créer des outils utiles et performants.*
+> *Je m'appelle Sammy Yohan. Je n'ai pas de fonds d'investissement derrière moi, ni de budget marketing. Je commence avec rien du tout en poche, juste des idées, de la passion et l'envie de créer des outils utiles et performants.*
 > 
 > *J'ai développé **ATHLETIQ AI** de A à Z depuis mon vieil ordinateur personnel. Mon objectif absolu est de mettre la technologie de pointe (vision par ordinateur, correction posturale biomécanique en temps réel, calcul métabolique sur-mesure) entre les mains de tous les passionnés de musculation et de remise en forme, sans aucune barrière financière.*
 > 
@@ -35,7 +35,7 @@
 > 
 > *Merci du fond du cœur pour votre confiance ! »*
 > 
-> — **Sami Yohan**
+> — **Sammy Yohan**
 
 ---
 
@@ -144,5 +144,5 @@ L'application est distribuée sous forme de paquet APK signé prêt à l'emploi.
 
 ## 📄 Licence & Droits
 
-Application conçue et développée par **Sami Yohan**.  
-Tous droits réservés © 2026 Sami Yohan.
+Application conçue et développée par **Sammy Yohan**.  
+Tous droits réservés © 2026 Sammy Yohan.
