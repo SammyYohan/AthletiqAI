@@ -17,11 +17,11 @@
 
 ---
 
-## 💬 Palavra do Criador — Sami Yohan
+## 💬 Palavra do Criador — Sammy Yohan
 
 > *"Olá a todos,*
 > 
-> *Meu nome é Sami Yohan. Comecei sem dinheiro no bolso, apenas com ideias, determinação e paixão por criar ferramentas úteis.*
+> *Meu nome é Sammy Yohan. Comecei sem dinheiro no bolso, apenas com ideias, determinação e paixão por criar ferramentas úteis.*
 > 
 > *Desenvolvi o **ATHLETIQ AI** no meu computador pessoal antigo. O aplicativo é **100% gratuito e sem assinaturas**, para que qualquer pessoa possa treinar com o melhor da tecnologia de visão computacional e correção biomecânica.*
 > 
@@ -33,7 +33,7 @@
 > 
 > *Muito obrigado pelo apoio!"*
 > 
-> — **Sami Yohan**
+> — **Sammy Yohan**
 
 ---
 
@@ -45,4 +45,4 @@
 
 ## 📄 Licença
 
-Desenvolvido por **Sami Yohan** © 2026. Todos os direitos reservados.
+Desenvolvido por **Sammy Yohan** © 2026. Todos os direitos reservados.
