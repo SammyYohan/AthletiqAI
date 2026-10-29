@@ -17,11 +17,11 @@
 
 ---
 
-## 💬 Ein Wort vom Entwickler — Sami Yohan
+## 💬 Ein Wort vom Entwickler — Sammy Yohan
 
 > *"Hallo zusammen,*
 > 
-> *mein Name ist Sami Yohan. Ich habe keine Investoren und kein Marketingbudget. Ich habe mit leeren Taschen angefangen – nur mit Ideen, Entschlossenheit und dem Wunsch, nützliche Software zu entwickeln.*
+> *mein Name ist Sammy Yohan. Ich habe keine Investoren und kein Marketingbudget. Ich habe mit leeren Taschen angefangen – nur mit Ideen, Entschlossenheit und dem Wunsch, nützliche Software zu entwickeln.*
 > 
 > *Ich habe **ATHLETIQ AI** komplett auf meinem alten Computer programmiert. Mein Ziel ist es, fortschrittliche Technologie (On-Device Computer Vision, Echtzeit-Haltungskorrektur, Stoffwechselberechnungen) jedem Sportler ohne finanzielle Hürden zur Verfügung zu stellen.*
 > 
@@ -33,7 +33,7 @@
 > 
 > *Vielen Dank für euer Vertrauen!"*
 > 
-> — **Sami Yohan**
+> — **Sammy Yohan**
 
 ---
 
@@ -55,4 +55,4 @@
 
 ## 📄 Lizenz
 
-Entwickelt von **Sami Yohan** © 2026. Alle Rechte vorbehalten.
+Entwickelt von **Sammy Yohan** © 2026. Alle Rechte vorbehalten.
