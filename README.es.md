@@ -13,17 +13,17 @@
 
 [English](README.md) • [Français](README.fr.md) • **Español** • [Deutsch](README.de.md) • [Italiano](README.it.md) • [Português](README.pt.md)
 
-[Descarga Directa](#-descarga-e-instalación-android) • [Funcionalidades Detalladas](#-todas-las-funcionalidades) • [Mensaje de Sami Yohan](#-mensaje-del-creador--sami-yohan) • [Apoyo](#-apoyar-el-proyecto-ko-fi--paypal) • [Stack Técnico](#-stack-técnico)
+[Descarga Directa](#-descarga-e-instalación-android) • [Funcionalidades Detalladas](#-todas-las-funcionalidades) • [Mensaje de Sammy Yohan](#-mensaje-del-creador--sammy-yohan) • [Apoyo](#-apoyar-el-proyecto-ko-fi--paypal) • [Stack Técnico](#-stack-técnico)
 
 </div>
 
 ---
 
-## 💬 Mensaje del Creador — Sami Yohan
+## 💬 Mensaje del Creador — Sammy Yohan
 
 > *«Hola a todos,*
 > 
-> *Me llamo Sami Yohan. No tengo grandes inversores ni presupuesto de marketing. Empecé sin dinero en el bolsillo, solo con ideas, pasión y el deseo de crear herramientas útiles y accesibles.*
+> *Me llamo Sammy Yohan. No tengo grandes inversores ni presupuesto de marketing. Empecé sin dinero en el bolsillo, solo con ideas, pasión y el deseo de crear herramientas útiles y accesibles.*
 > 
 > *He desarrollado **ATHLETIQ AI** desde cero en mi viejo ordenador personal. Mi objetivo es poner tecnología de vanguardia (visión por ordenador, corrección postural biomecánica en tiempo real, cálculo metabólico personalizado) en manos de todos los apasionados del entrenamiento, sin barreras económicas.*
 > 
@@ -35,7 +35,7 @@
 > 
 > *¡Gracias de corazón por vuestra confianza!»*
 > 
-> — **Sami Yohan**
+> — **Sammy Yohan**
 
 ---
 
@@ -80,5 +80,5 @@ ATHLETIQ AI se distribuye en formato APK firmado listo para usar.
 
 ## 📄 Licencia
 
-Desarrollado por **Sami Yohan**.  
-Todos los derechos reservados © 2026 Sami Yohan.
+Desarrollado por **Sammy Yohan**.  
+Todos los derechos reservados © 2026 Sammy Yohan.
