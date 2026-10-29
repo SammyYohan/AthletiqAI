@@ -17,11 +17,11 @@
 
 ---
 
-## 💬 Un messaggio dal Creatore — Sami Yohan
+## 💬 Un messaggio dal Creatore — Sammy Yohan
 
 > *"Ciao a tutti,*
 > 
-> *Mi chiamo Sami Yohan. Non ho grandi investitori né budget di marketing. Ho iniziato senza soldi in tasca, solo con idee e passione.*
+> *Mi chiamo Sammy Yohan. Non ho grandi investitori né budget di marketing. Ho iniziato senza soldi in tasca, solo con idee e passione.*
 > 
 > *Ho sviluppato **ATHLETIQ AI** dal mio vecchio computer. L'app è **gratuita al 100% e senza abbonamenti**, per consentire a chiunque di allenarsi con le migliori tecnologie di intelligenza artificiale locale.*
 > 
@@ -33,7 +33,7 @@
 > 
 > *Grazie di cuore per il vostro supporto!"*
 > 
-> — **Sami Yohan**
+> — **Sammy Yohan**
 
 ---
 
@@ -45,4 +45,4 @@
 
 ## 📄 Licenza
 
-Sviluppato da **Sami Yohan** © 2026. Tutti i diritti riservati.
+Sviluppato da **Sammy Yohan** © 2026. Tutti i diritti riservati.
